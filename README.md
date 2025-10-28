@@ -1,5 +1,5 @@
 # Python-zestaw-3
-Plik Python_zestaw_3_zadania zawiera wszystkie zadania z zestawu oprócz opisanych poniżej zadań 3.1 i 3.2 oraz zadania 3.7. Plik zad_3_4 zawiera zadanie 3.4 i jego test w bloku main.
+Plik zestaw_3_zadania zawiera wszystkie zadania z zestawu oprócz opisanych poniżej zadań 3.1 i 3.2 oraz zadania 3.7. Plik zad_3_4 zawiera zadanie 3.4 i jego test w bloku main.
 ## Zadanie 3.1 - Poprawność składniowa 
 x = 2; y = 3;  
 if (x > y):  
